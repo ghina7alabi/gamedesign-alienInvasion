@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 2f71ec30e1582214db6bc8d65e9f147c
+timeCreated: 1528272945
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: life_bar_hud_design_by_xtp597-d8crjz3_1
+    21300002: life_bar_hud_design_by_xtp597-d8crjz3_2
+    21300004: life_bar_hud_design_by_xtp597-d8crjz3_3
+    21300006: life_bar_hud_design_by_xtp597-d8crjz3_5
+    21300008: life_bar_hud_design_by_xtp597-d8crjz3_6
+    21300010: life_bar_hud_design_by_xtp597-d8crjz3_7
+    21300012: life_bar_hud_design_by_xtp597-d8crjz3_10
+    21300014: life_bar_hud_design_by_xtp597-d8crjz3_11
+    21300016: life_bar_hud_design_by_xtp597-d8crjz3_20
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: life_bar_hud_design_by_xtp597-d8crjz3_1
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 283
+        width: 294
+        height: 37
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: life_bar_hud_design_by_xtp597-d8crjz3_2
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 116
+        width: 180
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: life_bar_hud_design_by_xtp597-d8crjz3_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 216
+        width: 294
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: life_bar_hud_design_by_xtp597-d8crjz3_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 249
+        width: 21
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: life_bar_hud_design_by_xtp597-d8crjz3_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 110
+        width: 115
+        height: 2
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: life_bar_hud_design_by_xtp597-d8crjz3_20
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 30
+        width: 56
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

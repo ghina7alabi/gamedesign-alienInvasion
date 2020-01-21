@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: efff1b34e8dd5d6448610a1e79b7236d
+timeCreated: 1523125342
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: xmas candy sprite11_0
+    21300002: xmas candy sprite11_1
+    21300004: xmas candy sprite11_2
+    21300006: xmas candy sprite11_3
+    21300008: xmas candy sprite11_4
+    21300010: xmas candy sprite11_5
+    21300012: xmas candy sprite11_6
+    21300014: xmas candy sprite11_7
+    21300016: xmas candy sprite11_8
+    21300018: xmas candy sprite11_9
+    21300020: xmas candy sprite11_10
+    21300022: xmas candy sprite11_11
+    21300024: xmas candy sprite11_12
+    21300026: xmas candy sprite11_13
+    21300028: xmas candy sprite11_14
+    21300030: xmas candy sprite11_15
+    21300032: xmas candy sprite11_16
+    21300034: xmas candy sprite11_17
+    21300036: xmas candy sprite11_18
+    21300038: xmas candy sprite11_19
+    21300040: xmas candy sprite11_24
+    21300042: xmas candy sprite11_25
+    21300044: xmas candy sprite11_26
+    21300046: xmas candy sprite11_27
+    21300048: xmas candy sprite11_28
+    21300050: xmas candy sprite11_29
+    21300052: xmas candy sprite11_30
+    21300054: xmas candy sprite11_37
+    21300056: xmas candy sprite11_38
+    21300058: xmas candy sprite11_39
+    21300060: xmas candy sprite11_40
+    21300062: xmas candy sprite11_41
+    21300064: xmas candy sprite11_42
+    21300066: xmas candy sprite11_43
+    21300068: xmas candy sprite11_49
+    21300070: xmas candy sprite11_50
+    21300072: xmas candy sprite11_51
+    21300074: xmas candy sprite11_52
+    21300076: xmas candy sprite11_53
+    21300078: xmas candy sprite11_54
+    21300080: xmas candy sprite11_55
+    21300082: xmas candy sprite11_60
+    21300084: xmas candy sprite11_61
+    21300086: xmas candy sprite11_62
+    21300088: xmas candy sprite11_63
+    21300090: xmas candy sprite11_64
+    21300092: xmas candy sprite11_65
+    21300094: xmas candy sprite11_66
+    21300096: xmas candy sprite11_67
+    21300098: xmas candy sprite11_68
+    21300100: xmas candy sprite11_77
+    21300102: xmas candy sprite11_78
+    21300104: xmas candy sprite11_79
+    21300106: xmas candy sprite11_80
+    21300108: xmas candy sprite11_82
+    21300110: xmas candy sprite11_83
+    21300112: xmas candy sprite11_84
+    21300114: xmas candy sprite11_85
+    21300116: xmas candy sprite11_86
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xmas candy sprite11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3740
+        width: 230
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3740
+        width: 256
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_2
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3740
+        width: 275
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_3
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 3740
+        width: 293
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_4
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 3740
+        width: 304
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_5
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3732
+        width: 263
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_6
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 3710
+        width: 297
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_7
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 3705
+        width: 372
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_8
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 3694
+        width: 434
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_9
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 3690
+        width: 486
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3155
+        width: 235
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3156
+        width: 234
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3159
+        width: 234
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_13
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 3155
+        width: 234
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_14
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3155
+        width: 234
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_15
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3152
+        width: 234
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_16
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3152
+        width: 234
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_17
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 3148
+        width: 233
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_18
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 3139
+        width: 233
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_19
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 3139
+        width: 235
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2566
+        width: 233
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2575
+        width: 258
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_26
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2577
+        width: 290
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_27
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2581
+        width: 318
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_28
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 2575
+        width: 291
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_29
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2570
+        width: 258
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_30
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2557
+        width: 234
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1975
+        width: 234
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1975
+        width: 234
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_39
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1975
+        width: 233
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_40
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1975
+        width: 234
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_41
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1975
+        width: 229
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_42
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1975
+        width: 236
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_43
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1975
+        width: 235
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_49
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 1975
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_50
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1951
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1390
+        width: 240
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_52
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1374
+        width: 262
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_53
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1378
+        width: 284
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_54
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1378
+        width: 262
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_55
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1365
+        width: 241
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 766
+        width: 272
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_61
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 766
+        width: 265
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_62
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 766
+        width: 273
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_63
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 770
+        width: 266
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_64
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 764
+        width: 264
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_65
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 761
+        width: 267
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_66
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 761
+        width: 269
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_67
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 764
+        width: 249
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_68
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 766
+        width: 231
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 14
+        width: 236
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_78
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 12
+        width: 244
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_79
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 10
+        width: 332
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_80
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 8
+        width: 426
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_82
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 6
+        width: 401
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_83
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 8
+        width: 398
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_84
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 12
+        width: 205
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_85
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 34
+        width: 213
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas candy sprite11_86
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 14
+        width: 238
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
